@@ -1,1 +1,1 @@
-Microservices implementation through WildFly Swarm
+Microservices implementation through WildFly Swarm.
